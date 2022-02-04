@@ -1,0 +1,5 @@
+[2022-01-24 23:47:19] prodcution.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\Users\\pc\\Documents\\Laravel[WORKSPACE]\
+imopay\\vendor\\doctrine\\dbal\\lib\\Doctrine\\DBAL\\Driver\\PDOStatement.php:45)
+[stacktrace]
+#0 {main}
+"} 

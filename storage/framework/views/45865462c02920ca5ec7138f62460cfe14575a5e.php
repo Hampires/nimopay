@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\pc\Documents\Laravel[WORKSPACE]\nimopay\resources\views\orders\partials\actions\footeractions.blade.php ENDPATH**/ ?>

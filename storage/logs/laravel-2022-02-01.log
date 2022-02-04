@@ -1,0 +1,5 @@
+[2022-02-01 16:25:02] prodcution.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\Users\\pc\\Documents\\Laravel[WORKSPACE]\
+imopay\\vendor\\onecentlin\\laravel-adminer\\src\\ServiceProvider.php:43)
+[stacktrace]
+#0 {main}
+"} 

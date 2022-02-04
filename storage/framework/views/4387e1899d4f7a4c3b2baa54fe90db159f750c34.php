@@ -1,0 +1,3 @@
+<?php echo $__env->make('googletagmanager::head', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('googletagmanager::body', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH C:\Users\pc\Documents\Laravel[WORKSPACE]\nimopay\vendor\spatie\laravel-googletagmanager\resources\views\script.blade.php ENDPATH**/ ?>

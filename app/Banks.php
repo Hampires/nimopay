@@ -1,0 +1,15 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Banks extends Model
+{
+    protected $table = 'banks';
+
+    public function bank_detail()
+    {
+        return $this->hasOne('App\BankDetails');
+    }
+}
